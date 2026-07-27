@@ -458,23 +458,6 @@ logging.basicConfig(level=logging.DEBUG)
    - Embedding space visualization (t-SNE, UMAP)
    - Explainability features (attention visualization)
 
-## 📝 License
-
-This project is open-source and available for academic and commercial use.
-
----
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-
-1. Check the [Troubleshooting](#troubleshooting) section
-2. Review the code comments for detailed explanations
-3. Refer to [TensorFlow Documentation](https://www.tensorflow.org/api_docs)
-4. Refer to [Streamlit Documentation](https://docs.streamlit.io/)
-
-## 📚 References
-
 ### Research Papers
 
 - Hochreiter, S., & Schmidhuber, J. (1997). "Long short-term memory". Neural Computation
@@ -491,5 +474,9 @@ For issues, questions, or suggestions:
 
 **Last Updated:** 2026-07-27  
 **Version:** 1.0.0  
-**Status:** Production Ready ✅
 
+## 👩‍💻 Author
+
+**Harini R** (BSc-CsDs)  
+- GitHub: [github.com/harini147r](https://github.com/harini147r)  
+- LinkedIn: [linkedin.com/in/hariniramasamy7](https://www.linkedin.com/in/hariniramasamy7)
