@@ -2,6 +2,12 @@
 
 A deep learning application that classifies text into six distinct emotional categories using a Bidirectional LSTM neural network. This project provides multiple interfaces for training, prediction, and interactive emotion detection.
 
+## 🚀 Live Demo
+
+👉 **Try the App Here:**  
+https://emotion-detector-ml.onrender.com/
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
